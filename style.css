@@ -98,10 +98,6 @@ body {
   margin-top: -6px;
 }
 
-/* .weather {
-  display: none;
-} */
-
 .error {
   text-align: left;
   margin-left: 10px;
@@ -165,7 +161,7 @@ body {
 
   .humidity,
   .wind {
-    font-size: 16px;
+    font-size: 11px;
   }
 }
 /* Media Query for 778px */
